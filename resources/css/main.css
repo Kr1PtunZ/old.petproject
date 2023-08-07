@@ -1,0 +1,15 @@
+*{
+    margin: auto;
+}
+.product-holder{
+    text-align: center;
+    display: flex;
+    width: 80%;
+
+}
+.product{
+    text-align: center;
+}
+.block{
+    width: 30%;
+}
